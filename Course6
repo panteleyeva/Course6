@@ -1,5 +1,20 @@
 # Hello QA6!
+# Short to do list
+The Julia's HomeWork is Start doing, keep doing, Stop doing
+
+##Table1
+| STOP | KEEP | START |
+|------|------|-------|
+
 Here I plan to keep all QA6 group projects and information,
 I am gonna make different documents and projects in branches,
 and then join them to the master branch in case to practice GitHub commits)
----
+------------------------------------------------------
+*1st  May, 23, 2020
+function hi(name){
+  return 'Hello' + ', ' + name;
+}
+console.log(hi('Kate'));
+
+let a = hi('QA6')
+console.log(a);
